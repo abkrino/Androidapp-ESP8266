@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpcore_920cc6028bdc080708c1fd9c9e1213a7b60c06b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/libs/apache-httpcomponents-httpclient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpclient_45b17305a33178324d695eec27c11a520af0e7e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/libs/apache-httpcomponents-httpclient-cache.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="33c3e58f125530e83dfba53acb43643469d76a72">
+        <dex dex="/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpclient-cache_177d28bfc1d8b841ad5319034fee89f3282c1a93.jar" />
+    </item>
+
+</items>

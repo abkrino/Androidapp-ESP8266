@@ -1,0 +1,4 @@
+#Mon Jan 30 07:10:45 IRST 2017
+base.0=/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/mehdi/Desktop/My_Folder/Auto_Control/Control/Android_app/ESPwifi/ESP_wifi/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
